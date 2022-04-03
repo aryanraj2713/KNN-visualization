@@ -14,6 +14,8 @@ Here we will be using Euclidean distance to calculate the distance of a new data
 
 
 
+   <img src="https://img.shields.io/badge/Author-Aryan%20Raj-brightgreen" height="28"/><br>
+
 
 
 
